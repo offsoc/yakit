@@ -58,7 +58,7 @@
     "compressing": "^1.8.0",
     "dompurify": "^3.0.5",
     "electron-is-dev": "^2.0.0",
-    "electron-updater": "^4.3.9",
+    "electron-updater": "^6.3.0",
     "electron-window-state": "^5.0.3",
     "form-data": "^4.0.0",
     "fs-extra": "11.1.1",
